@@ -1,1 +1,1 @@
-## Creating Aamazon Machine Image (AMI) using Packer and Ansible 
+## Creating an Amazon Machine Image (AMI) using Packer and Ansible 
